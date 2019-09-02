@@ -19,6 +19,7 @@ All new development is done on the dev branch. More stable versions of the sampl
 
 If you are looking for documentation on how to use the Steeltoe components, you can find that [here](https://steeltoe.io/docs/).
 
+[Architecture](https://thenewstack.io/steeltoe-modernize-net-apps-for-a-microservices-architecture/)
 ## Building & Running
 
 See the Readmes for each sample for instructions on how to build and run.
